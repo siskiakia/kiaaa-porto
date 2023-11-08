@@ -2,3 +2,5 @@ Saya menambahkan index.html
 Saya menambahkan foto dan h1
 Saya menambahkan sub judul dan paragraph
 Saya mengubah title
+Saya memperbaiki conflik
+Saya menambahkan fitur contact
