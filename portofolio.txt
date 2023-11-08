@@ -4,3 +4,6 @@ Saya menambahkan sub judul dan paragraph
 Saya mengubah title
 Saya memperbaiki conflik
 Saya menambahkan fitur contact
+Menambahkan titik
+Merge branch 'fitur-contact'
+pesan commit
