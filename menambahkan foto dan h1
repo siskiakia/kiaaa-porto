@@ -1,0 +1,10 @@
+<title>Document</title>
+</head>
+<body>
+
+    <div id="about" class="about">
+        <img src="foto saya.jpg" alt="profil">
+        <h1>Alfan Hamdani</h1>
+    </div>
+</body>
+</html>
